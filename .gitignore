@@ -1,3 +1,4 @@
-data/
-!./data/bank-full.csv
-!./data/laptops.csv
+data/*
+
+!data/laptops.csv
+!data/bank-full.csv
