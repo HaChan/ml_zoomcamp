@@ -2,3 +2,4 @@ data/*
 
 !data/laptops.csv
 !data/bank-full.csv
+!data/jamb_exam_results.csv
